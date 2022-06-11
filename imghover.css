@@ -1,0 +1,6 @@
+.t403__img:hover {
+      transform: scale(1.05);
+     }
+     .t403__img {
+      transition: 0.5s; 
+     }
